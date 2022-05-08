@@ -1,0 +1,5 @@
+project: ropey
+target: mutation
+
+cmds:
+  - cmd: /mutation
